@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · Artificial Intelligence · Process Automation
 
-- 🌍 Based in Córdoba, Spain
+- 🌍 Based in Málaga and Palenciana, Spain
 - 🎓 Higher Technician in Web Application Development, with further training in AI and Big Data
 - 💻 Interested in web applications, API integrations, AI, and process automation
 - 📫 Contact: **[saul.rosua.ortiz@gmail.com](mailto:saul.rosua.ortiz@gmail.com)**
